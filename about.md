@@ -28,3 +28,14 @@ Used languages : Python (essentially with PyTorch, Numpy, Panda)
 Develop deep learning models with self-supervised methods on intracranial flow and pressure signal. 
 Use VICReg for the self-supervised learning and Wasserstein metric for the loss function.
 Used languages : Python (essentially with PyTorch), toml
+
+# Skills 
+
+* Python
+* Pytorch
+* Keras/Tensorflow
+* Numpy
+* SQL
+* OpenCV
+* Pandas
+* Javascript
