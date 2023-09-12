@@ -19,14 +19,18 @@ During my life, i passed by multiple different school, here an overview :
 * Internship in a laboratory, LGI2A, Apr 2023 - Jul 2023
 
 Develop deep learning model on EEG (Electroencephalography) data in order to help to understand this type of data.
+
 Use of the mechanism attention and transformer on this project
+
 Used languages : Python (essentially with PyTorch, Numpy, Panda) 
 
 
 * Internship in a laboratory, Mathematics Laboratory of Lens, Apr 2022 - Jul 2022
 
 Develop deep learning models with self-supervised methods on intracranial flow and pressure signal. 
+
 Use VICReg for the self-supervised learning and Wasserstein metric for the loss function.
+
 Used languages : Python (essentially with PyTorch), toml
 
 # Skills 
