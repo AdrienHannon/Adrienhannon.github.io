@@ -1,6 +1,6 @@
 ---
 layout: description
-permalink: /blog/
+permalink: /project/
 title: Adrien Hannon | Projects
 ---
 
