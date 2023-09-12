@@ -4,7 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Scolar experiments :
+
+During my life, i passed by multiple different school, here an overview :
+
+* IUT of Lens, Two-year university degree in technology, University institute of Technology, 2020-2022
+
+* Third year of the degree in technology, University of Lille, 2022-2023
+
+* Master in Data Science, Centrale Lille, 2023-2025
+
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -124,4 +135,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
-## Emojis
+## Emojis -->
